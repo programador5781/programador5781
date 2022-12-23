@@ -23,7 +23,7 @@ Welcome to my Github page! I´m Ricardo and I´m currently a software engineerin
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=programador5781&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=programador5781&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
@@ -36,6 +36,10 @@ Welcome to my Github page! I´m Ricardo and I´m currently a software engineerin
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+<br/>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
 <sub>Credits to: <br/>[Freepik](http://www.freepik.com">Designed by stories / Freepik) for the wonderfull [picture](https://github.com/programador5781/programador5781/blob/main/4136918.jpg)</sub>
