@@ -40,6 +40,9 @@ Welcome to my Github page!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<br/>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code> 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 </p>
 
 <sub>Credits to: <br/>[Freepik](http://www.freepik.com">Designed by stories / Freepik) for the wonderfull [picture](https://github.com/programador5781/programador5781/blob/main/4136918.jpg)</sub>
