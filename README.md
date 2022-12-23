@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I´m Ricardo 👋
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programador5781&count_private=true&show_icons=true&theme=dracula&langs_count=8)](https://github.com/programador5781/github-readme-stats)
 
 <!--
 **programador5781/programador5781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
