@@ -1,7 +1,14 @@
 ### Hi, I´m Ricardo 👋
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/programador5781)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ricoz/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:programador5781@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programador5781&count_private=true&show_icons=true&theme=dracula&langs_count=8)](https://github.com/programador5781/github-readme-stats)
+Welcome to my Github page! I´m Ricardo and I´m currently a software engineering student at the Universidad de Cartagena, Colombia!  
+
+
+<a>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programador5781&count_private=true&show_icons=true&theme=dracula&langs_count=8)](https://github.com/programador5781/github-readme-stats)</a><br>
+<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programador5781&langs_count=8)](https://github.com/programador5781/github-readme-stats)</a>
 
 <!--
 **programador5781/programador5781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
