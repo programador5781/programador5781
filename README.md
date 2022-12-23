@@ -11,7 +11,7 @@ Welcome to my Github page!
 
 #### 🌱 Things I am currently working on: 
 - Software Engineering at the University of Cartagena  
-- Full Stack Developer at Henry - Coding Bootcamp
+- Full Stack Developer at Henry - Coding Bootcamp (https://www.soyhenry.com/co)
 - Internship at the University of Cartagena 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
