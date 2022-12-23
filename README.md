@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ricoz/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:programador5781@gmail.com)
 
-Welcome to my Github page! I´m Ricardo and I´m currently a software engineering student at the Universidad de Cartagena, Colombia!  
+Welcome to my Github page! 
 
 <img align="right" alt="img" src="https://github.com/programador5781/programador5781/blob/main/4136918.jpg" width="50%" height="auto" />
 
