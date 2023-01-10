@@ -47,7 +47,7 @@ Welcome to my Github page!
 </p>
 
 <sub>Credits to: <br/>[myjourney]
-[Ricardo_Rico_FT31b_developer_con_barba_analizando_codigo_d1022d02-182e-40db-ba9e-936abfcc4441 (1)](https://user-images.githubusercontent.com/88601627/211465366-1c9ccbe8-0d5e-4cfa-8213-9c9c4325f062.png)</sub>
+[awesome picture](https://user-images.githubusercontent.com/88601627/211465366-1c9ccbe8-0d5e-4cfa-8213-9c9c4325f062.png)</sub>
 
 <!--
 **programador5781/programador5781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
