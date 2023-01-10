@@ -6,7 +6,7 @@
 
 Welcome to my Github page! 
 
-<img align="right" alt="img" src="https://github.com/programador5781/programador5781/blob/main/4136918.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://user-images.githubusercontent.com/88601627/211465531-ae8e31a1-4bcb-42fa-ac93-af4b61e6cced.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
