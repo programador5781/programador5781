@@ -6,7 +6,7 @@
 
 Welcome to my Github page! 
 
-<img align="right" alt="img" src="https://user-images.githubusercontent.com/88601627/211465531-ae8e31a1-4bcb-42fa-ac93-af4b61e6cced.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://user-images.githubusercontent.com/88601627/211579893-3515aa07-c122-4547-a162-be3a76b00f64.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
