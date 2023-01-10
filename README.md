@@ -46,7 +46,7 @@ Welcome to my Github page!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[Freepik](http://www.freepik.com">Designed by stories / Freepik) for the wonderfull [picture](https://github.com/programador5781/programador5781/blob/main/4136918.jpg)</sub>
+<sub>Credits to: <br/>[myjourney](https://media.discordapp.net/attachments/1008571063732539392/1062226154314018897/Ricardo_Rico_FT31b_developer_con_barba_analizando_codigo_d1022d02-182e-40db-ba9e-936abfcc4441.png?width=409&height=409) for the wonderfull [picture](https://github.com/programador5781/programador5781/blob/main/4136918.jpg)</sub>
 
 
 
