@@ -46,7 +46,7 @@ Welcome to my Github page!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[myjourney]
+<sub>Credits to: <br/>[@Midjourney]
 [awesome picture](https://user-images.githubusercontent.com/88601627/211465366-1c9ccbe8-0d5e-4cfa-8213-9c9c4325f062.png)</sub>
 
 <!--
